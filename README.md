@@ -24,3 +24,4 @@ console.log(a);
 
 result iguals 4. 
 ```
+[Link](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Operators/Operator_Precedence) to search precedence
