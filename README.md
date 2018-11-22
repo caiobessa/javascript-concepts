@@ -3,7 +3,8 @@
 
 
 #### Types 
- - Type that the represente a single data.t They are : 
- boolean,  number, undefined, function, string, null. 
- 
+ - Primitive types: 
 
+``` javascript
+ boolean,  number, undefined, symbol, string, null. 
+``` javascript
