@@ -4,6 +4,6 @@
 
 #### Types 
  - Type that the represente a single data.t They are : 
-  boolean,  number, undefined, function, string, null. 
+ boolean,  number, undefined, function, string, null. 
  
 
