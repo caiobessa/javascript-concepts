@@ -6,3 +6,9 @@
 ``` javascript
  boolean,  number, undefined, symbol, string, null. 
 ```
+
+
+
+### Single Thread 
+
+  r
