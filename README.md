@@ -2,8 +2,7 @@
 
 
 
-#### Types 
- - Primitive types: 
+### Primitive types: 
 ``` javascript
  boolean,  number, undefined, symbol, string, null. 
 ```
