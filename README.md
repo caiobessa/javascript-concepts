@@ -11,4 +11,6 @@
 
 ### Single Thread 
 
-  [Teste](execution_context.png)
+![alt text](execution_context.png "Logo Title Text 1")
+
+
