@@ -25,3 +25,7 @@ console.log(a);
 result iguals 4. 
 ```
 [Link](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence) to search precedence
+
+### Equanlity and comparesions
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness
