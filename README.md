@@ -29,3 +29,28 @@ result iguals 4.
 ### Equanlity and comparesions
 
 https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness
+
+
+
+### JSON and Object Literals 
+
+Object literals exemple
+```javascript
+var objectLiteral = {
+   firstName : "Caio",
+   age : 18
+}
+```
+JSON -> ***J****ava***S***ript Object Notation
+
+```json
+{
+ "firstName" : "Caio",
+ "age" : 18
+}
+```
+
+tranformome object literal to JSON 
+```javascript 
+console.log(JSON.stringfy(objectLiteral));
+````
