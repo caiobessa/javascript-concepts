@@ -41,7 +41,7 @@ var objectLiteral = {
    age : 18
 }
 ```
-JSON -> ***J****ava***S***ript Object Notation
+JSON -> ***J***ava***S***ript Object Notation
 
 ```json
 {
