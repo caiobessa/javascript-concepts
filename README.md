@@ -54,3 +54,8 @@ tranformome object literal to JSON
 ```javascript 
 console.log(JSON.stringfy(objectLiteral));
 ````
+
+### Function
+
+- Function are objects
+- funcation and object is passed by reference. primitive types are passed by value
