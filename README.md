@@ -75,8 +75,8 @@ print();
 console.log(teste);
 
 //out put
-in method printf
-global
+//in method printf
+//global
 
 ```
 
