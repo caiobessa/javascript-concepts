@@ -59,3 +59,12 @@ console.log(JSON.stringfy(objectLiteral));
 
 - Function are objects
 - Function and object are passed by reference. primitive types are passed by value
+
+### Immediately Invoked Functions Expressions 
+
+```javascript
+(function(name){
+   console.log(name);
+})();
+```
+
