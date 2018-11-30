@@ -119,7 +119,8 @@ logName.apply(person, ['en', 'es']);
 
 ```
 
-# function borrowing
+
+### function borrowing
 
 ```javascript
 
