@@ -142,3 +142,15 @@ var person2 = {
 console.log(person.getFullName.apply(person2));
 ```
 
+
+### function constructor 
+
+
+```javascript
+var car = new Car()
+```
+
+- The name javascript was choised just because to atract java developers. 
+- function constructors is just a normal function that is used to construct objects 
+the variable 'this' points a new empty object and that object is returned from the function
+automatically
