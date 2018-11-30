@@ -157,7 +157,6 @@ the variable 'this' points a new empty object and that object is returned from t
 automatically
 
 
-
 ### Prototype
 
 - That variable can be only use in "function constructor" (key word new )
