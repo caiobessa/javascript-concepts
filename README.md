@@ -154,3 +154,39 @@ var car = new Car()
 - function constructors is just a normal function that is used to construct objects 
 the variable 'this' points a new empty object and that object is returned from the function
 automatically
+
+
+
+## Prototype
+
+- That variable can be only use in "function constructor" (key word new )
+
+```javascript
+function Person(firstname, lastname) {
+ 
+    console.log(this);
+    this.firstname = firstname;
+    this.lastname = lastname;
+    console.log('This function is invoked.');
+    
+}
+
+Person.prototype.getFullName = function() {
+    return this.firstname + ' ' + this.lastname;   
+}
+
+var john = new Person('John', 'Doe');
+console.log(john);
+
+var jane = new Person('Jane', 'Doe');
+console.log(jane);
+
+Person.prototype.getFormalFullName = function() {
+    return this.lastname + ', ' + this.firstname;   
+}
+
+console.log(john.getFormalFullName());
+`
+```
+
+
