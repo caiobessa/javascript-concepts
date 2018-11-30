@@ -119,5 +119,26 @@ logName.apply(person, ['en', 'es']);
 
 ```
 
+# function borrowing
 
+```javascript
+
+var person = {
+    firstname: 'John',
+    lastname: 'Doe',
+    getFullName: function() {
+        
+        var fullname = this.firstname + ' ' + this.lastname;
+        return fullname;
+        
+    }
+}
+
+var person2 = {
+    firstname: 'Jane',
+    lastname: 'Doe'
+}
+
+console.log(person.getFullName.apply(person2));
+```
 
