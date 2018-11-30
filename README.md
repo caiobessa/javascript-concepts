@@ -59,6 +59,26 @@ console.log(JSON.stringfy(objectLiteral));
 
 - Function are objects
 - Function and object are passed by reference. primitive types are passed by value
+- var belongs the execution context
+```javascript
+
+var teste = "global"
+
+function print(){
+    this.teste = "in method printf";
+    console.log(teste);
+}
+
+
+print();
+
+console.log(teste);
+
+//out put
+in method printf
+global
+
+```ja
 
 ### Immediately Invoked Functions Expressions 
 
@@ -67,4 +87,7 @@ console.log(JSON.stringfy(objectLiteral));
    console.log(name);
 })();
 ```
+
+
+
 
