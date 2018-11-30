@@ -1,4 +1,4 @@
-## Big Words Java Script
+# Big Words Java Script
 
 
 
@@ -157,7 +157,7 @@ automatically
 
 
 
-## Prototype
+### Prototype
 
 - That variable can be only use in "function constructor" (key word new )
 - You can add value to a prototy any time, and all objects you recive that object. 
