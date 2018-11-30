@@ -78,7 +78,7 @@ console.log(teste);
 in method printf
 global
 
-```ja
+```
 
 ### Immediately Invoked Functions Expressions 
 
