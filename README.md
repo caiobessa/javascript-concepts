@@ -286,6 +286,5 @@ var e = new Pearson('Jane')
 e instance of Pearson() // true, searching in the prototyes
 
 type of null // bug returns object
-e instanceof Person / 
 ```
 
