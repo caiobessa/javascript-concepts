@@ -222,8 +222,8 @@ for (let index = 0; index < array.length; index++) {
 
 ### Create vs New 
 
-- "Object.create" create a object in the prototype. 
-- Create a object.
+- "Object.create" create a object in the prototype. Ex Object.create(Pearson) =  object.prototype = new Pearson();
+-  "new" Create a object with the prototype type "Object".
 
 ```javascript 
 // polyfill
