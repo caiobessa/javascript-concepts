@@ -192,7 +192,7 @@ console.log(john.getFormalFullName());
 ```
 ## Opertator == and ===
 
-```javacript
+```javascript
 var a = 1
 var b = new Number(1);
 a == b // true
