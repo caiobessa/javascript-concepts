@@ -275,4 +275,4 @@ class Manager extends Person{
     }
 } 
 ```
-extends => ________prop_____________
+extends =  ________prop_____________
