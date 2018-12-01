@@ -262,6 +262,6 @@ console.log(john);
 - code that adds a feature whitch the engine may lack
 
 
-# Syntactic Sugar 
+### Syntactic Sugar 
 
 A diferente way to type something that doesn't change how it works under the hood
