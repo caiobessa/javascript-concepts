@@ -199,3 +199,23 @@ a == b // true
 a === b // false, it compares the type
 ```
 
+# Arrays 
+
+- Arrays are object 
+```javascript
+Array.prototype.myCustomFeature = 'cool!';
+
+var arr = ['John','Jane', 'Jim' ];
+
+// avoid it because it show the object "myCustomFeature"
+for(var prop in arr){
+
+}
+
+//use it 
+for (let index = 0; index < array.length; index++) {
+    const element = array[index];
+    
+}
+
+```
