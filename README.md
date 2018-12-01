@@ -264,4 +264,15 @@ console.log(john);
 
 ### Syntactic Sugar 
 
-A diferente way to type something that doesn't change how it works under the hood
+- A diferente way to type something that doesn't change how it works under the hood
+
+one exemple is the class in ECS6 
+
+```javascript
+class Manager extends Person{
+    constructor(director){
+        super(director)
+    }
+} 
+```
+extends => "__prop__"
