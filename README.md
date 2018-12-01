@@ -275,4 +275,17 @@ class Manager extends Person{
     }
 } 
 ```
-extends =  ________prop_____________
+extends =  object.prototype;
+
+
+### typeof and instanceof
+```javascript
+type of b // String
+
+var e = new Pearson('Jane')
+e instance of Pearson() // true, searching in the prototyes
+
+type of null // bug returns object
+e instanceof Person / 
+```
+
