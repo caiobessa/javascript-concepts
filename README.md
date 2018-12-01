@@ -190,5 +190,12 @@ Person.prototype.getFormalFullName = function() {
 console.log(john.getFormalFullName());
 `
 ```
+## Opertator == and ===
 
+```javacript
+var a = 1
+var b = new Number(1);
+a == b // true
+a === b // false, it compares the type
+```
 
