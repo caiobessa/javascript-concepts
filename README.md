@@ -260,3 +260,8 @@ console.log(john);
 ### Polyfill
 
 - code that adds a feature whitch the engine may lack
+
+
+# Syntactic Sugar 
+
+A diferente way to type something that doesn't change how it works under the hood
